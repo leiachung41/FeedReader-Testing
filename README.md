@@ -1,6 +1,6 @@
 # Project: Feed Reader Testing
 
-In this project I am given a web-based application that reads RSS feeds. The application has an incomplete test suite. I will complete and test the suite using jasmine as a behavior-driven development framework.
+In this project I was  given a web-based application that reads RSS feeds. The application had an incomplete test suite. I completed and tested the suite using jasmine as a behavior-driven development framework.
 
 ## Project Goals
 
